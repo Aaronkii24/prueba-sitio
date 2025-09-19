@@ -121,7 +121,7 @@ export default function Home() {
               </div>
               <h4 className="text-2xl font-semibold text-green-800 mb-4">Productos de Belleza</h4>
               <p className="text-green-600">
-                Amplia variedad de productos de cuidado personal y cosméticos de calidad
+                Amplia variedad de productos de capsulas personales y cosméticos de calidad
               </p>
             </div>
 
