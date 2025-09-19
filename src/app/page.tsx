@@ -312,7 +312,7 @@ export default function Home() {
             <div>
               <h5 className="text-xl font-bold mb-4">Farmacias Regis</h5>
               <p className="text-green-200">
-                Más de 20 años cuidando tu salud con excelencia y compromiso.
+                Más de 30 años cuidando tu salud con excelencia y compromiso.
               </p>
             </div>
             <div>
